@@ -2829,7 +2829,7 @@ come in several language-specific flavors:
 
    * - :samp:`|version|-minimal`
      - No language modules;
-       based on the **debian:bullseye-slim**
+       based on the **debian:bookworm-slim**
        `image <https://hub.docker.com/_/debian>`__.
 
    * - :samp:`|version|-go1.21`
@@ -2869,7 +2869,7 @@ come in several language-specific flavors:
 
    * - :samp:`|version|-wasm`
      - Single-language;
-       based on the **debian:bullseye-slim**
+       based on the **debian:bookworm-slim**
        `image <https://hub.docker.com/_/debian>`__.
 
 .. nxt_details:: Customizing language versions in Docker images
